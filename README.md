@@ -4,7 +4,7 @@ conifg文件为：
 
 Help_IMG_URL= help页的图片URL
 
-admin_id= 管理员的用户 ID
+admin_id= 管理员的用户 ID 可以用:(英文)分开 比如： 114514:127891  这就是两个admin  
 
 user_id= 获得身份组的 身份组ID
 
